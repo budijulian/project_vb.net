@@ -1,0 +1,12 @@
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.exe.config
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.exe
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.pdb
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\bin\Debug\NilaiMahasiswa.xml
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.AboutBox1.resources
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.Form1.resources
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.MenghitungNilaiApp.resources
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.Resources.resources
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.vbproj.GenerateResource.Cache
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.exe
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.xml
+F:\BelajarProgram\Visual Basic\NilaiMahasiswa\NilaiMahasiswa\obj\Debug\NilaiMahasiswa.pdb
